@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ロマンスがありあまる",
+  "base_artist": "ゲスの極み乙女。",
+  "createdAt": "2025-12-03T10:27:34.054128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロマンスがありあまる",
+      "artist": "Gesu no Kiwami Otome",
+      "has_synced": true,
+      "path": "select/01_ロマンスがありあまる_Gesu_no_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロマンスがありあまる - romance ga ariamaru",
+      "artist": "gesunokiwamiotome",
+      "has_synced": true,
+      "path": "select/02_ロマンスがありあまる_-_romance_ga_ariamaru_gesunokiwamiotome.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロマンスがありあまる (2022 Remaster) - Romancega Ariamaru (2022 Remaster)",
+      "artist": "gesunokiwamiotome",
+      "has_synced": false,
+      "path": "select/03_ロマンスがありあまる_(2022_Remaster)_-_Romancega_Ariamaru_(2022_Remaster)_gesunokiwamiotome.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Romance ga Ariamaru [ロマンスがありあまる]",
+      "artist": "Gesu no Kiwami Otome [ゲスの極み乙女。]",
+      "has_synced": true,
+      "path": "select/04_Romance_ga_Ariamaru_[ロマンスがありあまる]_Gesu_no_Kiwami_Otome_[ゲスの極み乙女。].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロマンスがありあまる",
+      "artist": "ゲスの極み乙女",
+      "has_synced": true,
+      "path": "select/05_ロマンスがありあまる_ゲスの極み乙女.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ROMANCE GA ARIAMARU (ロマンスがありあまる)",
+      "artist": "Gesu no Kiwami Otome. (ゲスの極み乙女。)",
+      "has_synced": true,
+      "path": "select/06_ROMANCE_GA_ARIAMARU_(ロマンスがありあまる)_Gesu_no_Kiwami_Otome._(ゲスの極み乙女。).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロマンスがありあまる",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_ロマンスがありあまる_ゲスの極み乙女。.txt"
+    }
+  ]
+}
